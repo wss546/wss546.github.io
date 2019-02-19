@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Shisong Wu&#39;s Resume</title>
+    <link>https://wss546.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Shisong Wu&#39;s Resume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wss546.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-beam interference competition in heterodyne detection</title>
+      <link>https://wss546.github.io/publication/optoelectronics_letters/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wss546.github.io/publication/optoelectronics_letters/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>All-fiber pulsed laser Doppler vibrometer development based on time-domain chopping techniques</title>
+      <link>https://wss546.github.io/publication/col/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wss546.github.io/publication/col/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Remote audio signals detection using a partial-fiber laser Doppler vibrometer</title>
+      <link>https://wss546.github.io/publication/applied_acoustics/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wss546.github.io/publication/applied_acoustics/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Single longitudinal mode TEA CO2 laser based on transmissive unstable resonator</title>
+      <link>https://wss546.github.io/publication/optics_and_precision_engineering/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wss546.github.io/publication/optics_and_precision_engineering/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Study on Matched Filtering Process Based on Long-range Pulsed Laser Heterodyne Detection</title>
+      <link>https://wss546.github.io/publication/optic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wss546.github.io/publication/optic/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

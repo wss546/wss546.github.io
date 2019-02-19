@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pynq on Shisong Wu&#39;s Resume</title>
+    <link>https://wss546.github.io/tags/pynq/</link>
+    <description>Recent content in pynq on Shisong Wu&#39;s Resume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wss546.github.io/tags/pynq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PYNQ</title>
+      <link>https://wss546.github.io/project/pynq/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://wss546.github.io/project/pynq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

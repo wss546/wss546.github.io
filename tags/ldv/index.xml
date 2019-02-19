@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LDV on Shisong Wu&#39;s Resume</title>
+    <link>https://wss546.github.io/tags/ldv/</link>
+    <description>Recent content in LDV on Shisong Wu&#39;s Resume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wss546.github.io/tags/ldv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laser Doppler vibrometer</title>
+      <link>https://wss546.github.io/project/ldv/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wss546.github.io/project/ldv/</guid>
+      <description>Laser Doppler vibrometers analyze samples of different size, from entire car bodies, large aerospace parts over engines and actuators to micron-sized MEMS or delicate HDD components. Numerous other research applications in mechanical and civil engineering, biology and medicine benefit from the superior properties of non-contact Vibrometry. Laser vibrometers easily master challenging conditions like measuring on hot surfaces, on rotating parts, and characterize complex and sensitive structures even in the ultrasonic frequency range.</description>
+    </item>
+    
+  </channel>
+</rss>
